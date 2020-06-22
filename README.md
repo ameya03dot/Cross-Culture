@@ -6,3 +6,5 @@ The 3 datasets that were choosen for this project are Radvess Dataset(North Amer
 The documentation for each dataset is contained in thier respective files and have clear information abou them.
 
 The code itself was obtained from another source and is not ours to begin with. We simple modified the code to our specifications and used it.
+
+There are 6 traditional emotions that include Anger,Sad,Disgust,Calm,Happy,Surprise and a 7th emotion as Neutral. For our Project we chose to focus on Anger,Sad,Calm and Happy as they are very distinct emotions. Due to less number of samples for training and testing,we used Data Augmentation which effectively increased the number of samples thrice.
