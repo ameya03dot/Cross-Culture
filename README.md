@@ -3,7 +3,7 @@
 
 ## I. Introduction
 - This is a CNN Speech Emotion Recognition Model I found on [GitHub](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer). 
-- There is no paper to reference according to the repository author. 
+- There is no paper to reference. 
 
 ## II. Package Required
 
