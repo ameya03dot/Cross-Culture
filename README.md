@@ -1,5 +1,5 @@
 # Speech Emotion Recognition with Convolution Neural Network
-#### *Author @rezachu*
+#### *Author @rezachu @ameya03dot*
 
 ## I. Introduction
 - This is a CNN Speech Emotion Recognition Model I found on [GitHub](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer). 
@@ -77,5 +77,5 @@ opt = keras.optimizers.SGD(lr=0.0001, momentum=0.0, decay=0.0, nesterov=False)
 ```
 
 ## VI. Project Summary
-- Please refers to my Blog on Medium: [Speech Emotion Recognition with Convolution Neural Network](https://medium.com/@rezachu/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3)
+- Please refers to author @rezachu on Medium: [Speech Emotion Recognition with Convolution Neural Network](https://medium.com/@rezachu/speech-emotion-recognition-with-convolution-neural-network-1e6bb7130ce3)
 
